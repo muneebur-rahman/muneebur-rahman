@@ -1,22 +1,33 @@
-<!-- Profile Header -->
+<!-- ===================== PROFILE HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Muneebur Rahman</h1>
-<h3 align="center">Aspiring Software Developer | Java | Web Development</h3>
+<h3 align="center">Full Stack Developer | Coder</h3>
 
+<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneeburrahman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Computer+Science+Student;Java+%7C+Web+Development;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
 </p>
 
----
+<!-- Profile Views -->
+<p align="center">
+  <!-- Replace username if different -->
+  <img src="https://komarev.com/ghpvc/?username=muneeburrahman&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## 🚀 About Me
-- 🎓 Computer Engineering Student  
-- 💻 Interested in **Java, Web Development & Backend Technologies**
-- 🌱 Currently learning **Advanced Java, JSP, Servlets & GitHub**
-- 🤝 Open to **collaborations & group projects**
-- 🎯 Goal: Become a **Professional Software Developer**
+<hr/>
 
----
+<!-- ===================== ABOUT ME ===================== -->
+## 👨‍💻 About Me
+- 🎓 Computer Science Student from **Nagpur**
+- 💻 Aspiring **Full Stack Developer**
+- 🌱 Currently learning **Advanced Java, Backend & Web Technologies**
+- 🔭 Interested in **Real-world projects & Open Source**
+- 🎯 Goal: Build **scalable and impactful software**
 
+<hr/>
+
+<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -29,25 +40,38 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Database & Tools
+### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
----
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-## 📌 Projects
-- 📘 **Student Result Management System (Java)**
-- 🍔 **Food Order System (Android - Java & XML)**
-- 🚌 **Bus Pass Management System (Android)**
-- 🖼️ **Image Pixel Enhancement Project**
+### 🧰 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<hr/>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 📌 Featured Projects
+<!-- Replace links and descriptions with your actual projects -->
+- 🚀 **Student Result Management System** – Java-based academic project  
+- 🍔 **Food Order System** – Android App (Java & XML)  
+- 🚌 **Bus Pass Management System** – Android Application  
+- 🖼️ **Image Pixel Enhancement Project** – Image Processing  
 
 > 🔗 *More projects coming soon…*
 
----
+<hr/>
 
+<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
-
+<!-- Replace username if different -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muneeburrahman&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeburrahman&theme=tokyonight" width="48%" />
@@ -57,22 +81,66 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeburrahman&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
----
+<hr/>
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<!-- ===================== GITHUB TROPHIES ===================== -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muneeburrahman&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
----
+<hr/>
 
-## ✨ Fun Fact
-> 💡 *"Learning to code is learning to create."*
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneeburrahman&theme=tokyo-night" />
+</p>
 
----
+<hr/>
 
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🎖️ Achievements & Certifications
+- 🏅 Participated in technical workshops & seminars  
+- 📜 Completed academic and micro-projects in Java & Web Development  
+<!-- Add certifications when available -->
+
+<hr/>
+
+<!-- ===================== OPEN SOURCE ===================== -->
+## 🌍 Open Source & Contributions
+- 🤝 Open to contributing to **beginner-friendly open source projects**
+- 📌 Interested in **collaborative learning & team development**
+
+<hr/>
+
+<!-- ===================== LEARNING ROADMAP ===================== -->
+## 📚 Learning & Roadmap
+- ✅ Core Java & OOPs
+- 🔄 Data Structures & Algorithms
+- 🔄 Backend Development (JSP, Servlets, Node.js)
+- 🔄 Frontend Frameworks (React)
+- 🔄 Database & System Design
+
+<hr/>
+
+<!-- ===================== CONTACT ===================== -->
+## 📫 Connect With Me
+<p align="left">
+  <a href="mailto:muneeburrahman0213@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <!-- Add LinkedIn / Portfolio when ready -->
+  <!--
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  -->
+</p>
+
+<hr/>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  ⭐ If you like my profile, consider starring my repositories!  
+</p>

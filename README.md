@@ -69,28 +69,6 @@
 
 <hr/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
-<!-- Replace username if different -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneeburrahman&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeburrahman&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeburrahman&layout=compact&theme=tokyonight" width="50%" />
-</p>
-
-<hr/>
-
-<!-- ===================== GITHUB TROPHIES ===================== -->
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneeburrahman&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<hr/>
-
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 ## 📈 Contribution Activity
 <p align="center">

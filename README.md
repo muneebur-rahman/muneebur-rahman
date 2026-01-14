@@ -109,7 +109,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <!-- Add LinkedIn / Portfolio when ready -->
-    <a href="https://www.linkedin.com/in/your-link">
+    <a href="https://www.linkedin.com/in/muneebur-rahman-657658319">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  
